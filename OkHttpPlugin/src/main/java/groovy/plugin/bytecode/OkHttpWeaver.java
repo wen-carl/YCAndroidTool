@@ -1,12 +1,11 @@
 package groovy.plugin.bytecode;
 
 
-
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.ClassWriter;
-import groovy.plugin.OkHttpHunterExtension;
 
 import groovy.hunter.asm.BaseWeaver;
+import groovy.plugin.OkHttpHunterExtension;
 
 
 public final class OkHttpWeaver extends BaseWeaver {

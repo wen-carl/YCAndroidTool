@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.support.annotation.RequiresApi;
 
-
 import java.util.ArrayList;
 import java.util.List;
 

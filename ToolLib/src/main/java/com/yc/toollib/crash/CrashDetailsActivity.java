@@ -29,8 +29,8 @@ import android.widget.Toast;
 import com.yc.toollib.R;
 import com.yc.toollib.tool.CompressUtils;
 import com.yc.toollib.tool.ScreenShotsUtils;
-import com.yc.toollib.tool.ToolFileUtils;
 import com.yc.toollib.tool.ToolAppManager;
+import com.yc.toollib.tool.ToolFileUtils;
 
 import java.io.File;
 import java.util.List;
